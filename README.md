@@ -18,7 +18,7 @@ O projeto é dividido em duas frentes:
 
 ### 🖥️ Módulo Web (Tema Preto e Dourado)
 
-![Painel Principal](screenshots/home.jpeg)
+![Painel Principal](screenshots/home.JPG)
 *Figura 1: Painel Principal de Gestão*
 
 ---
