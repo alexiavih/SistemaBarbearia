@@ -159,7 +159,7 @@
             <div class="nav-wrapper container">
                 <a href="../../index.html" class="brand-logo"><i class="material-icons">content_cut</i>Sistema Barbearia</a>
                 <ul class="right">
-                    <li><a href="../../index.html" style="color: #d4af37;">Home</a></li>
+                    <li><a href="../../index.jsp" style="color: #d4af37;">Home</a></li>
                 </ul>
             </div>
         </nav>
